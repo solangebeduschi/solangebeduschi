@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @solangebeduschi
-- 👀 I’m interested in learning about coding
-- 🌱 I’m currently learning on boot camp
+- 🚀 I have successfully completed the Full Stack Web Development programming course
+- If you’re looking for a dedicated and passionate developer, let’s connect! 💻🚀
 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love cats 
+
+
 
 <!---
 solangebeduschi/solangebeduschi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
